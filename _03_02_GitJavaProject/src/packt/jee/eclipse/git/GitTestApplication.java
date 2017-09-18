@@ -6,5 +6,6 @@ public class GitTestApplication {
 		System.out.println("Hello Git...");
 		System.out.println("End.");
 		System.out.println("Hello Git, from branch bug#1234 !!");
+		System.out.println("This change was made from Remote Repository");
 	}
 }
